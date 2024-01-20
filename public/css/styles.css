@@ -304,7 +304,7 @@ img {
 .home__blob-img{
   width: 100px;
   border-radius: 40%;
-  transform: translateX(-150%);
+  transform: translateX(-160%);
   margin:10px auto;
   
 }
